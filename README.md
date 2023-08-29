@@ -5,14 +5,14 @@
 
 Para inicializar um arquivo, temos o seguinte pacote para incluir
 
-´´´
+```
 #include <iostream>
 
 int main(void) {
   
   return 0;
 }
-´´´
+```
 
 ### --> Aula 02 - Versionamento - GIT
 
@@ -26,6 +26,3 @@ int main(void) {
 
 
 
-
-
-# end
