@@ -15,6 +15,11 @@ int main(void) {
 ```
 
 - Compiladores:
+  
+  g++ , clang, and much more;
+  makefile is great!
+
+
 
 
 
