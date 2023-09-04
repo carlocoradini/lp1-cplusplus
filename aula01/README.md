@@ -21,9 +21,10 @@ int main(void) {
 
   Comandos básicos para compilação:
 
-  Usando g++:                 # Works with gcc;
-  g++ -o test.o test.cpp      # -o test.o := Arquivo de saída (output)); 
-                              #test.cpp := Arquivo de entrada (para pre-processo)C++;  
+  - Usando g++:                 
+  ### g++ -o test.o test.cpp      
+    - -o test.o := Arquivo de saída (output)); 
+    - test.cpp := Arquivo de entrada (para pre-processo)C++;  
 
 
 
