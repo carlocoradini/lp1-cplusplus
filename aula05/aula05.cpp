@@ -1,15 +1,11 @@
 #include <iostream>
-using namespace std;
+// Incluindo o meu Header 
+#include "contarate.h"
 
 int main(void) {
 
-    int n;
-
-    cout << "Digite um número: " << endl;
-
-    cin >> n;
-
-    cout << "Voce digitou: " << n << "." << endl;
+    // Minha função do header "contarate.h"
+    contarAte(10);
 
     return 0;
 

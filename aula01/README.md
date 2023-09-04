@@ -19,6 +19,13 @@ int main(void) {
   g++ , clang, and much more;
   makefile is great!
 
+  Comandos básicos para compilação:
+
+  Usando g++:                 # Works with gcc;
+  g++ -o test.o test.cpp      # -o test.o := Arquivo de saída (output)); 
+                              #test.cpp := Arquivo de entrada (para pre-processo)C++;  
+
+
 
 
 
