@@ -10,17 +10,20 @@
 - Standard x Non-Standard: Pre-existente x Usuario-definida
 
 1. Standard:
-    Bibliotecas pré definidas para o uso geral(ISO) da linguagem de maneira a facilitar a colaboração entre códigos.
+    Bibliotecas pré definidas para o uso geral(ISO) da linguagem de maneira a facilitar a colaboração entre códigos.<br>
     ex.:
+    ```
         - <iostream> # C++
         - <stdio.h> # C
         - <vector> # C++ vectors
+    ```
 
 2. Non Standard:
-    Precisam ser instaladas manualmente, ou estar citada no pre-processamento para poder fazer parte do código.
+    Precisam ser instaladas manualmente, ou estar citada no pre-processamento para poder fazer parte do código.<br>
     ex.:
+    ```
         - "include/geometria.h" # Precisa especificar até o diretório onde encontra-se o header
-    
+    ```
 
 - Para Criar Header:
 
