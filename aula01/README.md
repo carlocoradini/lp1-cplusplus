@@ -1,8 +1,14 @@
+# [ Lógica de Programação I ]
+
+## Aula de C++ - IMD 2023.2
+
+
+#=======#========#=======#========#=======#======
 
 ### --> Aula 01 - Introdução a Linguagem C++
 
 - Criação de arquivo:
- C++ file <==> anyFile.cpp;
+ C++ file <==> “.cpp” or “.c++” or “.cc” or “.cxx” ;
  
 - Escopo básico de um programa em C++:
 ```

@@ -1,3 +1,9 @@
+# [ Lógica de Programação I ]
+
+## Aula de C++ - IMD 2023.2
+
+
+#=======#========#=======#========#=======#======
 
 ### --> Aula 03 - Recursividade 
 - Exemplo inicial sobre o conceito
@@ -23,7 +29,8 @@
   
   }
   ```
-  -- Tipos de Recursão:
+
+- Tipos de Recursão:
     -  Recursão Direta:
       Função chama a mesma função
 
